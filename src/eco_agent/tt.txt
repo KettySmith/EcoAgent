@@ -1,0 +1,1008 @@
+重命名列: number_of_times_times_ -> 创下世界纪录的次数（次）
+表处理完成: china_statistical_yearbook_2021_c23_35_1020133030488
+
+开始处理表: china_statistical_yearbook_2021c24_01_1020133032465
+重命名列: total_number_of_representatives -> 全国人民代表大会代表总数（人）
+重命名列: total_number_of_representatives_female_representatives -> 全国人民代表大会女代表总数（人）
+重命名列: total_number_of_representatives_minority_representatives -> 全国人民代表大会少数民族代表总数（人）
+重命名列: proportion_of_total_representatives_female_representatives -> 全国人民代表大会女代表占比（%）
+重命名列: proportion_of_total_representatives_ethnic_minority_represen -> 全国人民代表大会少数民族代表占比（%）
+表处理完成: china_statistical_yearbook_2021c24_01_1020133032465
+
+开始处理表: china_statistical_yearbook_2021c24_02_1020133035861
+重命名列: total_number_of_members -> 全国政协委员总数（人）
+重命名列: total_number_of_members_member_of_the_cpc -> 中国共产党委员总数（人）
+重命名列: total_number_of_members_ethnic_minority_members -> 少数民族委员总数（人）
+重命名列: proportion_in_the_total_number_of_members_member_of_the_cpc -> 中国共产党委员占全国政协委员总数的比例（%）
+重命名列: proportion_of_the_total_number_of_committee_members_ethnic_m -> 少数民族委员占全国政协委员总数的比例（%）
+表处理完成: china_statistical_yearbook_2021c24_02_1020133035861
+
+开始处理表: china_statistical_yearbook_2021c24_03_1020133039718
+重命名列: filing_starting_2019 -> 公安机关立案数（2019年，件）
+重命名列: filing_starting_2020 -> 公安机关立案数（2020年，件）
+重命名列: composition_2019 -> 公安机关刑事案件按罪名的构成（2019年，件）
+重命名列: composition_2020 -> 公安机关刑事案件按罪名的构成（2020年，件）
+表处理完成: china_statistical_yearbook_2021c24_03_1020133039718
+
+开始处理表: china_statistical_yearbook_2021c24_04_1020133042273
+重命名列: accepting_acceptance_starting_ -> 公安机关治安案件受理数量（起）
+重命名列: punish_and_punish_starting_ -> 公安机关治安案件查处数量（起）
+重命名列: number_of_cases_accepted_per_10000_population_cases_ -> 每万人口治安案件受理数量
+表处理完成: china_statistical_yearbook_2021c24_04_1020133042273
+
+开始处理表: china_statistical_yearbook_2021c24_05_1020133044506
+重命名列: number_of_occurrences_starting_ -> 全国交通事故发生次数（起）
+重命名列: death_toll_person_ -> 全国交通事故死亡人数（人）
+重命名列: number_of_injured_individuals -> 全国交通事故受伤人数（人）
+重命名列: direct_property_loss_rmb_10000_ -> 全国交通事故直接财产损失（万元）
+表处理完成: china_statistical_yearbook_2021c24_05_1020133044506
+
+开始处理表: china_statistical_yearbook_2021c24_07_1020133047264
+重命名列: arrest_and_decision_total_arrests_ -> 人民检察院审查逮捕-总件数（件）
+重命名列: arrest_and_decision_total_arrests_person -> 人民检察院审查逮捕-涉及被逮捕人员总数（人）
+重命名列: total_number_of_lawsuits_decided_ -> 人民检察院审查起诉-决定起诉案件总数（件）
+重命名列: decided_to_sue_a_total_of_people -> 人民检察院审查起诉-决定起诉的人员总数（人）
+表处理完成: china_statistical_yearbook_2021c24_07_1020133047264
+
+开始处理表: china_statistical_yearbook_2021c24_08_1020133049566
+重命名列: accept_the_case -> 受案件数（单位：件）
+重命名列: review_decision_change_original_decision -> 对原判改判的案件数（单位：件）
+重命名列: review_decision_correct_original_decision -> 对原判纠正的案件数（单位：件）
+重命名列: review_decision_appeal -> 对申诉案件的裁定数（单位：件）
+重命名列: review_decision_propose_review_and_prosecution_suggestions -> 提出复审及检察建议的裁定数（单位：件）
+表处理完成: china_statistical_yearbook_2021c24_08_1020133049566
+
+开始处理表: china_statistical_yearbook_2021c24_09_1020133052520
+重命名列: file_a_protest_file_ -> 人民检察院抗诉案件档案文件数量（份）
+重命名列: total_number_of_trial_results_pieces_ -> 人民检察院抗诉案件审判结果合计（件）
+重命名列: total_trial_results_revised_judgments_cases_ -> 人民检察院抗诉案件中对原判改判的案件数（件）
+重命名列: total_trial_results_revised_judgments_person_ -> 人民检察院抗诉案件中对原判改判涉及的人员数（人）
+重命名列: total_trial_consequence_upholds_original_judgment_cases_ -> 人民检察院抗诉案件中维持原判的案件数（件）
+重命名列: total_trial_results_remanded_for_retrial_cases_ -> 人民检察院抗诉案件中发回重审的案件数（件）
+表处理完成: china_statistical_yearbook_2021c24_09_1020133052520
+
+开始处理表: china_statistical_yearbook_2021c24_10_1020133056131
+重命名列: total -> 人民检察院办理民事、行政抗诉案件合计件数
+重命名列: total_civil_cases -> 人民检察院办理民事抗诉案件件数
+重命名列: total_administrative_cases -> 人民检察院办理行政抗诉案件件数
+表处理完成: china_statistical_yearbook_2021c24_10_1020133056131
+
+开始处理表: china_statistical_yearbook_2021_c24_11_1020133058139
+重命名列: two_thousand_and_nineteen -> 人民检察院纠正违法情况数量（2019年）
+重命名列: two_thousand_and_twenty -> 人民检察院纠正违法情况数量（2020年）
+表处理完成: china_statistical_yearbook_2021_c24_11_1020133058139
+
+开始处理表: china_statistical_yearbook_2021c24_12_1020133059770
+重命名列: total -> 人民检察院办理的民事公益诉讼案件数量（单位：件，合计）
+重命名列: total_civil_cases -> 人民检察院办理的民事公益诉讼案件数量（单位：件）
+重命名列: total_administrative_cases -> 人民检察院办理的行政公益诉讼案件数量（单位：件）
+表处理完成: china_statistical_yearbook_2021c24_12_1020133059770
+
+开始处理表: china_statistical_yearbook_2021c24_14_1020133101858
+重命名列: collection_of_cases -> 全国人民法院审理刑事一审案件-收案数量(单位：件)
+重命名列: closing_the_case -> 全国人民法院审理刑事一审案件-结案数量(单位：件)
+表处理完成: china_statistical_yearbook_2021c24_14_1020133101858
+
+开始处理表: china_statistical_yearbook_2021c24_16_1020133103399
+重命名列: collection_of_cases -> 人民法院民事一审收案件数（件）
+重命名列: closing_the_case -> 人民法院民事一审结案件数（件）
+重命名列: closing_case_judgment -> 人民法院民事一审判决结案件数（件）
+重命名列: closing_case_not_accepted -> 人民法院民事一审不予受理结案件数（件）
+重命名列: closing_the_case_and_dismissing_the_lawsuit -> 人民法院民事一审驳回起诉结案件数（件）
+重命名列: closing_the_case_and_withdrawing_the_lawsuit -> 人民法院民事一审撤诉结案件数（件）
+重命名列: closing_case_mediation -> 人民法院民事一审调解结案件数（件）
+重命名列: closing_case_other -> 人民法院民事一审其他结案件数（件）
+表处理完成: china_statistical_yearbook_2021c24_16_1020133103399
+
+开始处理表: china_statistical_yearbook_2021c24_17_1020133107579
+重命名列: collection_of_cases -> 人民法院一审婚姻家庭及继承案件收案数量（单位：件）
+重命名列: closing_the_case -> 人民法院一审婚姻家庭及继承案件结案数量（单位：件）
+重命名列: closing_case_judgment -> 人民法院一审婚姻家庭及继承案件结案且有判决的数量（单位：件）
+重命名列: closing_case_not_accepted -> 人民法院一审婚姻家庭及继承案件结案_不予受理数量（单位：件）
+重命名列: closing_the_case_and_dismissing_the_lawsuit -> 人民法院一审婚姻家庭及继承案件结案_诉讼被撤诉数量（单位：件）
+重命名列: closing_the_case_and_withdrawing_the_lawsuit -> 人民法院一审婚姻家庭及继承案件结案_主动撤诉数量（单位：件）
+重命名列: closing_case_mediation -> 人民法院一审婚姻家庭及继承案件结案_调解数量（单位：件）
+重命名列: closing_case_other -> 人民法院一审婚姻家庭及继承案件结案_其他原因数量（单位：件）
+表处理完成: china_statistical_yearbook_2021c24_17_1020133107579
+
+开始处理表: china_statistical_yearbook_2021c24_18_1020133111519
+重命名列: collection_of_cases -> 人民法院行政一审案件收案数量（件）
+重命名列: closing_the_case -> 人民法院行政一审案件结案数量（件）
+重命名列: closing_case_judgment -> 人民法院行政一审案件结案_判决数量（件）
+重命名列: closed_case_not_filed -> 人民法院行政一审案件结案_不予立案数量（件）
+重命名列: closing_the_case_and_dismissing_the_lawsuit -> 人民法院行政一审案件结案_驳回诉讼数量（件）
+重命名列: closing_the_case_and_withdrawing_the_lawsuit -> 人民法院行政一审案件结案_撤诉数量（件）
+重命名列: closing_case_mediation -> 人民法院行政一审案件结案_调解数量（件）
+重命名列: closing_case_other -> 人民法院行政一审案件结案_其他数量（件）
+表处理完成: china_statistical_yearbook_2021c24_18_1020133111519
+
+开始处理表: china_statistical_yearbook_2021c24_19_1020133115085
+重命名列: two_thousand_and_fifteen -> 全国律师人数（单位：人，年份：2015）
+重命名列: two_thousand_and_sixteen -> 全国律师人数（单位：人，年份：2016）
+重命名列: two_thousand_and_seventeen -> 全国律师人数（单位：人，年份：2017）
+重命名列: two_thousand_and_eighteen -> 全国律师人数（单位：人，年份：2018）
+重命名列: two_thousand_and_nineteen -> 全国律师人数（单位：人，年份：2019）
+重命名列: two_thousand_and_twenty -> 全国律师人数（单位：人，年份：2020）
+表处理完成: china_statistical_yearbook_2021c24_19_1020133115085
+
+开始处理表: china_statistical_yearbook_2021c24_20_1020133118135
+重命名列: number_of_documents_issued_pieces_ -> 公证业务办理证件数量（件）
+重命名列: specific_gravity -> 公证业务分类特定指标（单位未知）
+表处理完成: china_statistical_yearbook_2021c24_20_1020133118135
+
+开始处理表: china_statistical_yearbook_2021_c24_21_1020133119687
+重命名列: mediation_disputes_10000_cases_2019 -> 民间纠纷调解案件数量（单位：万件）
+重命名列: mediation_disputes_10000_cases_2020 -> 民间纠纷调解案件数量（单位：万件）
+处理失败: china_statistical_yearbook_2021_c24_21_1020133119687
+(1060, "Duplicate column name '民间纠纷调解案件数量（单位：万件）'")
+
+开始处理表: china_statistical_yearbook_2021c24_22_1020133122300
+重命名列: two_thousand_and_fifteen -> 劳动人事争议仲裁案件数量（单位：件，2015年度）
+重命名列: two_thousand_and_sixteen -> 劳动人事争议仲裁案件数量（单位：件，2016年度）
+重命名列: two_thousand_and_seventeen -> 劳动人事争议仲裁案件数量（单位：件，2017年度）
+重命名列: two_thousand_and_eighteen -> 劳动人事争议仲裁案件数量（单位：件，2018年度）
+重命名列: two_thousand_and_nineteen -> 劳动人事争议仲裁案件数量（单位：件，2019年度）
+重命名列: two_thousand_and_twenty -> 劳动人事争议仲裁案件数量（单位：件，2020年度）
+表处理完成: china_statistical_yearbook_2021c24_22_1020133122300
+
+开始处理表: china_statistical_yearbook_2021c24_23_1020133125405
+重命名列: number_of_grassroots_trade_union_organizations_in_10000_ -> 工会基层组织数量（单位：万个）
+重命名列: number_of_employees_and_members_of_grassroots_units_with_est -> 全国已建工会组织的基层单位职工人数（单位：人）
+重命名列: number_of_employees_and_members_of_grassroots_units_with_est_1 -> 全国已建工会组织的基层单位职工人数中的女职工人数（单位：人）
+重命名列: number_of_employees_and_members_of_grassroots_units_with_est_2 -> 全国已建工会组织的基层单位会员人数（单位：人）
+重命名列: number_of_employees_and_members_of_grassroots_units_with_est_3 -> 全国已建工会组织基层单位会员人数中的女会员人数（单位：人）
+重命名列: number_of_full_time_union_staff_10000_people_ -> 工会专职工作人员数量（单位：万人）
+表处理完成: china_statistical_yearbook_2021c24_23_1020133125405
+
+开始处理表: china_statistical_yearbook_2021c24_24_1020133129273
+重命名列: total -> 社会保险基金收支及累计结余合计（单位：亿元）
+重命名列: basic_pension_insurance -> 基本养老保险基金收支及累计结余（单位：亿元）
+重命名列: unemployment_insurance -> 失业保险基金收支及累计结余（单位：亿元）
+重命名列: basic_medical_insurance_ -> 基本医疗保险基金收支及累计结余（单位：亿元）
+重命名列: employment_injury_insurance -> 工伤保险基金收支及累计结余（单位：亿元）
+重命名列: maternity_insurance -> 生育保险基金收支及累计结余（单位：亿元）
+表处理完成: china_statistical_yearbook_2021c24_24_1020133129273
+
+开始处理表: china_statistical_yearbook_2021c24_26_1020133132235
+重命名列: number_of_people_participating_in_the_basic_pension_insuranc -> 城镇职工基本养老保险参保人数（全市，单位：人）
+重命名列: number_of_people_participating_in_the_basic_pension_insuranc_1 -> 城镇职工基本养老保险参保人数（市辖区，单位：人）
+重命名列: number_of_people_participating_in_the_basic_pension_insuranc_2 -> 城镇企业职工基本养老保险年末参保人数（万人，离退休人员，单位：人）
+重命名列: fund_income_and_expenditure_in_billions_of_yuan_fund_income -> 城镇职工基本养老保险基金收入（单位：亿元）
+重命名列: fund_income_and_expenditure_in_billions_of_yuan_fund_expendi -> 城镇职工基本养老保险基金支出（单位：亿元）
+重命名列: fund_income_and_expenditure_in_billions_of_yuan_accumulated_ -> 城镇职工基本养老保险基金累计结余（单位：亿元）
+表处理完成: china_statistical_yearbook_2021c24_26_1020133132235
+
+开始处理表: china_statistical_yearbook_2021c25_01_1020133135532
+重命名列: total -> 全部地级及以上城市户籍人口总数（单位：人）
+重命名列: grouping_by_total_population_at_the_end_of_the_year_in_urban -> 年末城市户籍人口总数（单位：人）
+重命名列: grouping_by_year_end_total_population_in_urban_and_municipal -> 年末城市及市辖区户籍人口总数（单位：人）
+重命名列: grouping_by_year_end_total_population_in_urban_and_municipal_1 -> 年末城市及市辖区户籍人口分组1（单位：人）
+重命名列: grouping_by_year_end_total_population_in_urban_and_municipal_2 -> 年末城市及市辖区户籍人口分组2（单位：人）
+重命名列: grouping_by_total_population_at_the_end_of_the_year_in_urban_1 -> 年末城市户籍人口总数分组1（单位：人）
+重命名列: grouping_by_total_population_at_the_end_of_the_year_in_urban_2 -> 年末城市户籍人口总数分组2（单位：人）
+表处理完成: china_statistical_yearbook_2021c25_01_1020133135532
+
+开始处理表: china_statistical_yearbook_2021c25_02_1020133139317
+重命名列: regional_gross_domestic_product_at_current_prices_in_billion -> 区域生产总值（现价，单位：十亿元人民币）
+重命名列: regional_gross_domestic_product_in_current_prices_in_billion -> 区域生产总值分项（现价，单位：十亿元人民币）
+重命名列: regional_gross_domestic_product_in_current_prices_in_billion_1 -> 区域生产总值分项1（现价，单位：十亿元人民币）
+重命名列: regional_gross_domestic_product_in_current_prices_in_billion_2 -> 区域生产总值分项2（现价，单位：十亿元人民币）
+重命名列: local_general_public_budget_revenue_in_billions_of_yuan_ -> 地方一般公共预算收入（单位：亿元）
+重命名列: local_general_public_budget_expenditure_in_billions_of_yuan_ -> 地方一般公共预算支出（单位：亿元）
+重命名列: resident_deposit_balance_in_billions_of_yuan_ -> 居民存款余额（单位：亿元）
+重命名列: average_salary_of_non_private_employees_in_urban_areas_yuan_ -> 城镇非私营单位在岗职工平均工资（单位：元）
+重命名列: at_the_end_of_the_year_the_post_office_office_ -> 年末邮政局网点数量（单位：个）
+重命名列: end_of_year_fixed_telephone_users_10000_households_ -> 年末固定电话用户数（单位：万户）
+重命名列: total_retail_sales_of_consumer_goods_in_billions_of_yuan_ -> 社会消费品零售总额（单位：亿元）
+重命名列: total_import_and_export_volume_of_goods_in_billions_of_yuan_ -> 货物进出口总额（单位：亿元）
+重命名列: at_the_end_of_the_year_there_were_actual_operating_vehicles_ -> 年末实际运营车辆数（单位：辆）
+重命名列: number_of_regular_undergraduate_and_junior_college_students_ -> 全市普通本专科在校学生数（人）
+重命名列: number_of_hospitals -> 医院数量（家）
+重命名列: practicing_assistant_physician_person_ -> 执业（助理）医师人数（人）
+表处理完成: china_statistical_yearbook_2021c25_02_1020133139317
+
+开始处理表: china_statistical_yearbook_2021c25_03_1020133147460
+重命名列: one_thousand_nine_hundred_and_ninety -> 城市公用事业相关指标值（全社会，1990年）
+重命名列: two_thousand -> 城市公用事业相关指标值（全社会，2000年）
+重命名列: two_thousand_and_ten -> 城市公用事业相关指标值（全社会，2010年）
+重命名列: two_thousand_and_fifteen -> 城市公用事业相关指标值（全社会，2015年）
+重命名列: two_thousand_and_nineteen -> 城市公用事业相关指标值（全社会，2019年）
+重命名列: two_thousand_and_twenty -> 城市公用事业相关指标值（全社会，2020年）
+表处理完成: china_statistical_yearbook_2021c25_03_1020133147460
+
+开始处理表: china_statistical_yearbook_2021c25_14_1020133150578
+重命名列: completed_investment_amount_this_year_10000_yuan_ -> 农村水电建设与发电相关本年度完成投资额（万元）
+重命名列: year_end_power_generation_equipment_capacity_kw_ -> 农村水电建设与发电设备容量（年末，千瓦）
+重命名列: year_end_power_generation_equipment_capacity_kw_new_power_ge -> 农村水电建设与发电设备容量（年末，本年新增容量，千瓦）
+重命名列: scale_of_power_stations_under_construction_kw_ -> 农村水电在建电站规模（千瓦）
+重命名列: scale_of_power_stations_under_construction_kw_scale_of_newly -> 农村水电在建电站规模（千瓦）_当年新开工电站规模
+重命名列: power_generation_10000_kwh_10000_kwh_ -> 农村水电发电量（万千瓦时）
+重命名列: rural_electricity_consumption_100_million_kilowatt_hours_100 -> 农村用电量（亿千瓦时）
+表处理完成: china_statistical_yearbook_2021c25_14_1020133150578
+
+开始处理表: china_statistical_yearbook_2021c25_15_1020133154419
+重命名列: national_total -> 全国人口总量（单位：人）
+重命名列: eastern_region_absolute_number -> 东部地区人口数量（单位：人）
+重命名列: eastern_region_proportion_in_the_country_ -> 东部地区在全国人口中所占比例（单位：%）
+重命名列: central_region_absolute_number -> 中部地区人口数量（单位：人）
+重命名列: central_region_proportion_in_the_country_ -> 中部地区在全国人口中所占比例（单位：%）
+重命名列: western_region_absolute_numbers -> 西部地区人口数量（单位：人）
+重命名列: western_region_proportion_in_the_country_ -> 西部地区在全国人口中所占比例（单位：%）
+重命名列: northeast_region_absolute_number -> 东北地区人口数量（单位：人）
+重命名列: northeast_region_proportion_in_china_ -> 东北地区在全国人口中所占比例（单位：%）
+表处理完成: china_statistical_yearbook_2021c25_15_1020133154419
+
+开始处理表: china_statistical_yearbook_2021c25_16_1020133200024
+重命名列: national_total -> 全国合计人口数量（绝对数）
+重命名列: beijing_tianjin_hebei_region_absolute_number -> 京津冀地区人口数量（绝对数）
+重命名列: proportion_of_beijing_tianjin_hebei_region_in_china_ -> 京津冀地区在全国人口中的占比（%）
+重命名列: yangtze_river_economic_belt_absolute_number -> 长江经济带人口数量（绝对数）
+重命名列: proportion_of_yangtze_river_economic_belt_in_china_ -> 长江经济带在全国人口中的占比（%）
+表处理完成: china_statistical_yearbook_2021c25_16_1020133200024
+
+开始处理表: china_statistical_yearbook_2021c25_18_1020133202830
+重命名列: total_quota_1990_1990 -> 自治地方国民经济与社会发展主要指标之总量（1990年）
+重命名列: total_quota_1995_1995 -> 自治地方国民经济与社会发展主要指标之总量（1995年）
+重命名列: total_quota_2000_2000 -> 自治地方国民经济与社会发展主要指标之总量（2000年）
+重命名列: total_quota_2005_2005 -> 自治地方国民经济与社会发展主要指标之总量（2005年）
+重命名列: total_quota_2010_2010 -> 自治地方国民经济与社会发展主要指标之总量（2010年）
+重命名列: total_quota_2019_2019 -> 自治地方国民经济与社会发展主要指标之总量（2019年）
+重命名列: total_quota_2020_2020 -> 自治地方国民经济与社会发展主要指标之总量（2020年）
+重命名列: speed_indicator_index_2020_for_the_following_years_1990 -> 速度指标指数（以2020年为基期，覆盖1990年及以后年度）
+重命名列: speed_indicator_index_2020_for_the_following_years_1995 -> 速度指标指数（以2020年为基期，覆盖1995年及以后年度）
+重命名列: speed_index_index_2020_for_the_following_years_2000 -> 速度指标指数（以2020年为基期，覆盖2000年及以后年度）
+重命名列: speed_index_index_2020_refers_to_the_following_years_2005 -> 速度指标指数（以2020年为基期，指向2005年及以后年度）
+重命名列: speed_index_index_2020_for_the_following_years_2010 -> 速度指标指数（以2020年为基期，覆盖2010年及以后年度）
+重命名列: speed_index_index_2020_refers_to_the_following_years_2019 -> 速度指标指数（以2020年为基期，指向2019年及以后年度）
+重命名列: speed_indicator_average_growth_rate_1991_2020 -> 速度指标平均增长率（1991-2020年）
+重命名列: speed_indicator_average_growth_rate_996_2020 -> 速度指标平均增长率（1996-2020年）
+重命名列: speed_indicator_average_growth_rate_2001_2020 -> 速度指标平均增长率（2001-2020年）
+表处理完成: china_statistical_yearbook_2021c25_18_1020133202830
+
+开始处理表: china_statistical_yearbook_2021c25_19_1020133210984
+重命名列: population_person_ -> 少数民族分布的主要地区人口数（人）
+表处理完成: china_statistical_yearbook_2021c25_19_1020133210984
+
+开始处理表: china_statistical_yearbook_2021c26_01_1020133212749
+重命名列: two_thousand_and_sixteen -> 中国-主要统计指标概况（截至2016年10月）
+重命名列: two_thousand_and_seventeen -> 中国-主要统计指标概况（截至2017年10月）
+重命名列: two_thousand_and_eighteen -> 中国-主要统计指标概况（截至2018年10月）
+重命名列: two_thousand_and_nineteen -> 中国-主要统计指标概况（截至2019年10月）
+重命名列: two_thousand_and_twenty -> 中国-主要统计指标概况（截至2020年10月）
+表处理完成: china_statistical_yearbook_2021c26_01_1020133212749
+
+开始处理表: china_statistical_yearbook_2021c26_02_1020133216484
+重命名列: two_thousand_and_sixteen -> 中国土地用途分布面积(平方公里) - 2016年末
+重命名列: two_thousand_and_seventeen -> 中国土地用途分布面积(平方公里) - 2017年末
+重命名列: two_thousand_and_eighteen -> 中国土地用途分布面积(平方公里) - 2018年末
+重命名列: two_thousand_and_nineteen -> 中国土地用途分布面积(平方公里) - 2019年末
+重命名列: two_thousand_and_twenty -> 中国土地用途分布面积(平方公里) - 2020年末
+表处理完成: china_statistical_yearbook_2021c26_02_1020133216484
+
+开始处理表: china_statistical_yearbook_2021c26_03_1020133219348
+重命名列: annual_average_air_pollution_concentration_of_sulfur_dioxide -> 年平均二氧化硫浓度（μg/m³）
+重命名列: annual_average_air_pollution_concentration_nitrogen_dioxide -> 年平均二氧化氮浓度（μg/m³）
+重命名列: annual_average_air_pollution_concentration_of_fine_suspended -> 年平均细颗粒物PM2.5浓度（μg/m³）
+重命名列: annual_average_air_pollution_concentration_inhalable_suspend -> 年平均可吸入颗粒物PM10浓度（μg/m³）
+表处理完成: china_statistical_yearbook_2021c26_03_1020133219348
+
+开始处理表: china_statistical_yearbook_2021c26_04_1020133222476
+重命名列: two_thousand_and_fifteen -> 日均都市固体废物量（按类别划分，2015年）（单位：吨/日）
+重命名列: two_thousand_and_sixteen -> 日均都市固体废物量（按类别划分，2016年）（单位：吨/日）
+重命名列: two_thousand_and_seventeen -> 日均都市固体废物量（按类别划分，2017年）（单位：吨/日）
+重命名列: two_thousand_and_eighteen -> 日均都市固体废物量（按类别划分，2018年）（单位：吨/日）
+重命名列: two_thousand_and_nineteen -> 日均都市固体废物量（按类别划分，2019年）（单位：吨/日）
+表处理完成: china_statistical_yearbook_2021c26_04_1020133222476
+
+开始处理表: china_statistical_yearbook_2021c26_05_1020133225237
+重命名列: two_thousand_and_sixteen -> 女性每千名活产婴儿数（单位：人/千名女性；排除外籍家庭佣工）
+重命名列: two_thousand_and_seventeen -> 女性每千名活产婴儿数（单位：人/千名女性；排除外籍家庭佣工）
+处理失败: china_statistical_yearbook_2021c26_05_1020133225237
+(1060, "Duplicate column name '女性每千名活产婴儿数（单位：人/千名女性；排除外籍家庭佣工）'")
+
+开始处理表: china_statistical_yearbook_2021c26_06_1020133228328
+重命名列: two_thousand_and_sixteen -> 劳动人口及失业状况数值（2016年度）
+重命名列: two_thousand_and_seventeen -> 劳动人口及失业状况数值（2017年度）
+重命名列: two_thousand_and_eighteen -> 劳动人口及失业状况数值（2018年度）
+重命名列: two_thousand_and_nineteen -> 劳动人口及失业状况数值（2019年度）
+重命名列: two_thousand_and_twenty -> 劳动人口及失业状况数值（2020年度）
+表处理完成: china_statistical_yearbook_2021c26_06_1020133228328
+
+开始处理表: china_statistical_yearbook_2021c26_07_1020133231155
+重命名列: two_thousand_and_sixteen -> 按行业划分的就业人数（单位：万人，年度：2016）
+重命名列: two_thousand_and_seventeen -> 按行业划分的就业人数（单位：万人，年度：2017）
+重命名列: two_thousand_and_eighteen -> 按行业划分的就业人数（单位：万人，年度：2018）
+重命名列: two_thousand_and_nineteen -> 按行业划分的就业人数（单位：万人，年度：2019）
+重命名列: two_thousand_and_twenty -> 按行业划分的就业人数（单位：万人，年度：2020）
+表处理完成: china_statistical_yearbook_2021c26_07_1020133231155
+
+开始处理表: china_statistical_yearbook_2021c26_08_1020133234206
+重命名列: two_thousand_and_sixteen -> 就业人数（按每月就业收入划分，单位：万人）
+重命名列: two_thousand_and_seventeen -> 就业人数（按每月就业收入划分，单位：万人）
+处理失败: china_statistical_yearbook_2021c26_08_1020133234206
+(1060, "Duplicate column name '就业人数（按每月就业收入划分，单位：万人）'")
+
+开始处理表: china_statistical_yearbook_2021c26_09_1020133237131
+重命名列: two_thousand_and_sixteen -> 中国按行业划分督导级及以下雇员工资指数（名义，基准：1992年9月=100，12月数据，单位：指数点）- 2016年
+重命名列: two_thousand_and_seventeen -> 中国按行业划分督导级及以下雇员工资指数（名义，基准：1992年9月=100，12月数据，单位：指数点）- 2017年
+重命名列: two_thousand_and_eighteen -> 中国按行业划分督导级及以下雇员工资指数（名义，基准：1992年9月=100，12月数据，单位：指数点）- 2018年
+重命名列: two_thousand_and_nineteen -> 中国按行业划分督导级及以下雇员工资指数（名义，基准：1992年9月=100，12月数据，单位：指数点）- 2019年
+重命名列: two_thousand_and_twenty -> 中国按行业划分督导级及以下雇员工资指数（名义，基准：1992年9月=100，12月数据，单位：指数点）- 2020年
+表处理完成: china_statistical_yearbook_2021c26_09_1020133237131
+
+开始处理表: china_statistical_yearbook_2021c26_10_1020133239947
+重命名列: gross_domestic_product_in_current_year_prices_in_billions_of -> 中国本地生产总值（以当年价格计算，单位：亿港元）
+重命名列: gross_domestic_product_in_current_year_prices_in_billions_of_1 -> 中国本地生产总值（以当年价格计算，单位：亿美元）
+重命名列: real_growth_of_local_gross_domestic_product_compared_to_the_ -> 中国本地生产总值实际同比增长率（%）
+重命名列: per_capita_gross_domestic_product_calculated_at_current_pric -> 中国人均本地生产总值（以当年价格计算，单位：港元）
+重命名列: per_capita_gross_domestic_product_calculated_at_current_pric_1 -> 中国人均本地生产总值（以当年价格计算，单位：美元）
+表处理完成: china_statistical_yearbook_2021c26_10_1020133239947
+
+开始处理表: china_statistical_yearbook_2021c26_11_1020133243940
+重命名列: two_thousand_and_fifteen -> 香港按当时价格计算的生产法本地生产总值（单位：亿港元，年份：2015）
+重命名列: two_thousand_and_sixteen -> 香港按当时价格计算的生产法本地生产总值（单位：亿港元，年份：2016）
+重命名列: two_thousand_and_seventeen -> 香港按当时价格计算的生产法本地生产总值（单位：亿港元，年份：2017）
+重命名列: two_thousand_and_eighteen -> 香港按当时价格计算的生产法本地生产总值（单位：亿港元，年份：2018）
+重命名列: _2019_ -> 香港按当时价格计算的生产法本地生产总值（单位：亿港元，年份：2019）
+表处理完成: china_statistical_yearbook_2021c26_11_1020133243940
+
+开始处理表: china_statistical_yearbook_2021c26_12_1020133246767
+重命名列: two_thousand_and_sixteen -> 本地生产总值（生产法，按2019年环比物量计算，2016年，单位：亿港元）
+重命名列: two_thousand_and_seventeen -> 本地生产总值（生产法，按2019年环比物量计算，2017年，单位：亿港元）
+重命名列: two_thousand_and_eighteen -> 本地生产总值（生产法，按2019年环比物量计算，2018年，单位：亿港元）
+重命名列: _2019_ -> 本地生产总值（生产法，按2019年环比物量计算，2019年，单位：亿港元）
+重命名列: _2020_ -> 本地生产总值（生产法，按2019年环比物量计算，2020年，单位：亿港元）
+表处理完成: china_statistical_yearbook_2021c26_12_1020133246767
+
+开始处理表: china_statistical_yearbook_2021c26_13_1020133249345
+重命名列: two_thousand_and_sixteen -> 支出法本地生产总值（单位：亿港元，数值）
+重命名列: two_thousand_and_seventeen -> 支出法本地生产总值（单位：亿港元，数值）
+处理失败: china_statistical_yearbook_2021c26_13_1020133249345
+(1060, "Duplicate column name '支出法本地生产总值（单位：亿港元，数值）'")
+
+开始处理表: china_statistical_yearbook_2021c26_14_1020133252600
+重命名列: two_thousand_and_sixteen -> 本地居民总收入（单位：亿港元，2016年）
+重命名列: two_thousand_and_seventeen -> 本地居民总收入（单位：亿港元，2017年）
+重命名列: two_thousand_and_eighteen -> 本地居民总收入（单位：亿港元，2018年）
+重命名列: two_thousand_and_nineteen -> 本地居民总收入（单位：亿港元，2019年）
+重命名列: _2020_ -> 本地居民总收入（单位：亿港元，2020年）
+表处理完成: china_statistical_yearbook_2021c26_14_1020133252600
+
+开始处理表: china_statistical_yearbook_2021c26_15_1020133255472
+重命名列: two_thousand_and_sixteen -> 香港国际收支平衡年度净额（单位：亿港元，2016年）
+重命名列: two_thousand_and_seventeen -> 香港国际收支平衡年度净额（单位：亿港元，2017年）
+重命名列: two_thousand_and_eighteen -> 香港国际收支平衡年度净额（单位：亿港元，2018年）
+重命名列: _2019_ -> 香港国际收支平衡年度净额（单位：亿港元，2019年）
+重命名列: _2020_ -> 香港国际收支平衡年度净额（单位：亿港元，2020年）
+表处理完成: china_statistical_yearbook_2021c26_15_1020133255472
+
+开始处理表: china_statistical_yearbook_2021c26_16_1020133258149
+重命名列: two_thousand_and_sixteen -> 香港国际投资头寸净额（期末头寸，单位：亿港元）
+重命名列: two_thousand_and_seventeen -> 香港国际投资头寸净额（期末头寸，单位：亿港元）
+处理失败: china_statistical_yearbook_2021c26_16_1020133258149
+(1060, "Duplicate column name '香港国际投资头寸净额（期末头寸，单位：亿港元）'")
+
+开始处理表: china_statistical_yearbook_2021c26_17_1020133301073
+重命名列: two_thousand_and_sixteen -> 中国大陆电力、煤气、水消费量（单位未标示）
+重命名列: two_thousand_and_seventeen -> 中国大陆电力、煤气、水消费量（单位未标示）
+处理失败: china_statistical_yearbook_2021c26_17_1020133301073
+(1060, "Duplicate column name '中国大陆电力、煤气、水消费量（单位未标示）'")
+
+开始处理表: china_statistical_yearbook_2021c26_18_1020133303825
+重命名列: two_thousand_and_sixteen -> 工业生产指数（单位：指数，基准：2015=100，年度：2016）
+重命名列: two_thousand_and_seventeen -> 工业生产指数（单位：指数，基准：2015=100，年度：2017）
+重命名列: two_thousand_and_eighteen -> 工业生产指数（单位：指数，基准：2015=100，年度：2018）
+重命名列: two_thousand_and_nineteen -> 工业生产指数（单位：指数，基准：2015=100，年度：2019）
+重命名列: two_thousand_and_twenty -> 工业生产指数（单位：指数，基准：2015=100，年度：2020）
+表处理完成: china_statistical_yearbook_2021c26_18_1020133303825
+
+开始处理表: china_statistical_yearbook_2021c26_19_1020133306667
+重命名列: two_thousand_and_sixteen -> 按楼宇种类划分的新落成私人楼宇实用楼面面积（单位：平方米），包含住宅楼宇内用于非住宅用途的实用楼面面积（如会所/娱乐设施、管理员办事处/宿舍、电机房等）
+处理失败: china_statistical_yearbook_2021c26_19_1020133306667
+(1059, "Identifier name '按楼宇种类划分的新落成私人楼宇实用楼面面积（单位：平方米），包含住?' is too long")
+
+开始处理表: china_statistical_yearbook_2021c26_20_1020133309800
+重命名列: residential_buildings_number_of_buildings_buildings_building -> 住宅楼宇数量（栋）
+重命名列: residential_building_practical_floor_area_10000_square_meter -> 住宅楼宇实用楼面面积（万平方米）
+重命名列: commercial_and_residential_buildings_number_of_buildings_bui -> 商住两用楼宇数量（栋）
+重命名列: commercial_and_residential_buildings_practical_floor_area_10 -> 商住两用楼宇住宅部分实用楼面面积（万平方米）
+重命名列: commercial_and_residential_buildings_practical_floor_area_10_1 -> 商住两用楼宇非住宅部分实用楼面面积（万平方米）
+列不存在，跳过: commercial_buildings_number_of_buildings_buildings_
+重命名列: commercial_building_practical_floor_area_10000_square_meters -> 商业楼宇实用楼面面积（万平方米）
+重命名列: industrial_building_number_of_buildings_buildings_buildings_ -> 工业楼宇数量（栋）
+重命名列: industrial_building_practical_floor_area_10000_square_meters -> 工业楼宇实用楼面面积（万平方米）
+重命名列: buildings_for_other_purposes_number_of_buildings_buildings_b -> 其他用途楼宇数量（栋）
+重命名列: other_use_buildings_practical_floor_area_10000_square_meters -> 其他用途楼宇住宅部分实用楼面面积（万平方米）
+重命名列: other_use_buildings_useful_floor_area_10000_square_meters_no -> 其他用途楼宇非住宅部分实用楼面面积（万平方米）
+重命名列: total_number_of_buildings_buildings_buildings_ -> 总计楼宇数量（栋）
+重命名列: total_practical_floor_area_10000_square_meters_residential_ -> 总计住宅楼宇实用楼面面积（万平方米）
+重命名列: total_actual_floor_area_10000_square_meters_non_residential -> 总计非住宅楼宇实用楼面面积（万平方米）
+表处理完成: china_statistical_yearbook_2021c26_20_1020133309800
+
+开始处理表: china_statistical_yearbook_2021_c26_21_1020133318353
+重命名列: two_thousand_and_seventeen -> 以类型划分的永久性居住屋宇单位数量（单位：万个）
+重命名列: two_thousand_and_eighteen -> 以类型划分的永久性居住屋宇单位数量（单位：万个）
+处理失败: china_statistical_yearbook_2021_c26_21_1020133318353
+(1060, "Duplicate column name '以类型划分的永久性居住屋宇单位数量（单位：万个）'")
+
+开始处理表: china_statistical_yearbook_2021c26_22_1020133321069
+重命名列: two_thousand_and_sixteen -> 2016年按住房租住权划分的家庭住户数目（单位：万户）
+重命名列: two_thousand_and_seventeen -> 2017年按住房租住权划分的家庭住户数目（单位：万户）
+重命名列: two_thousand_and_eighteen -> 2018年按住房租住权划分的家庭住户数目（单位：万户）
+重命名列: two_thousand_and_nineteen -> 2019年按住房租住权划分的家庭住户数目（单位：万户）
+重命名列: two_thousand_and_twenty -> 2020年按住房租住权划分的家庭住户数目（单位：万户）
+表处理完成: china_statistical_yearbook_2021c26_22_1020133321069
+
+开始处理表: china_statistical_yearbook_2021c26_23_1020133323699
+重命名列: two_thousand_and_sixteen -> 中国对香港的进出口货物总量（单位：万吨）
+重命名列: two_thousand_and_seventeen -> 中国对香港的进出口货物总量（单位：万吨）
+处理失败: china_statistical_yearbook_2021c26_23_1020133323699
+(1060, "Duplicate column name '中国对香港的进出口货物总量（单位：万吨）'")
+
+开始处理表: china_statistical_yearbook_2021_c26_24_1020133326327
+重命名列: two_thousand_and_sixteen -> 按主要货物装卸地点划分的集装箱吞吐量（单位：万标准集装箱单位）
+重命名列: two_thousand_and_seventeen -> 按主要货物装卸地点划分的集装箱吞吐量（单位：万标准集装箱单位）
+处理失败: china_statistical_yearbook_2021_c26_24_1020133326327
+(1060, "Duplicate column name '按主要货物装卸地点划分的集装箱吞吐量（单位：万标准集装箱单位）'")
+
+开始处理表: china_statistical_yearbook_2021c26_25_1020133329191
+重命名列: two_thousand_and_sixteen -> 截至2016年底的通讯及互联网服务相关指标数量（单位：项）
+重命名列: two_thousand_and_seventeen -> 截至2017年底的通讯及互联网服务相关指标数量（单位：项）
+重命名列: two_thousand_and_eighteen -> 截至2018年底的通讯及互联网服务相关指标数量（单位：项）
+重命名列: two_thousand_and_nineteen -> 截至2019年底的通讯及互联网服务相关指标数量（单位：项）
+重命名列: two_thousand_and_twenty -> 截至2020年底的通讯及互联网服务相关指标数量（单位：项）
+表处理完成: china_statistical_yearbook_2021c26_25_1020133329191
+
+开始处理表: china_statistical_yearbook_2021c26_26_1020133332061
+重命名列: two_thousand_and_sixteen -> 中国商品进出口贸易总额（单位：亿港元）
+重命名列: two_thousand_and_seventeen -> 中国商品进出口贸易总额（单位：亿港元）
+处理失败: china_statistical_yearbook_2021c26_26_1020133332061
+(1060, "Duplicate column name '中国商品进出口贸易总额（单位：亿港元）'")
+
+开始处理表: china_statistical_yearbook_2021_c26_27_1020133334864
+重命名列: two_thousand_and_sixteen -> 中国商品进口主要供应地金额（单位：亿港元）
+重命名列: two_thousand_and_seventeen -> 中国商品进口主要供应地金额（单位：亿港元）
+处理失败: china_statistical_yearbook_2021_c26_27_1020133334864
+(1060, "Duplicate column name '中国商品进口主要供应地金额（单位：亿港元）'")
+
+开始处理表: china_statistical_yearbook_2021c26_28_1020133337830
+重命名列: two_thousand_and_sixteen -> 中国对外商品出口的主要目的地金额（单位：亿港元）
+重命名列: two_thousand_and_seventeen -> 中国对外商品出口的主要目的地金额（单位：亿港元）
+处理失败: china_statistical_yearbook_2021c26_28_1020133337830
+(1060, "Duplicate column name '中国对外商品出口的主要目的地金额（单位：亿港元）'")
+
+开始处理表: china_statistical_yearbook_2021_c26_29_1020133340362
+重命名列: two_thousand_and_sixteen -> 中国大陆加工贸易外发额
+重命名列: two_thousand_and_seventeen -> 中国大陆加工贸易外发额
+处理失败: china_statistical_yearbook_2021_c26_29_1020133340362
+(1060, "Duplicate column name '中国大陆加工贸易外发额'")
+
+开始处理表: china_statistical_yearbook_2021_c26_30_1020133343248
+重命名列: two_thousand_and_sixteen -> 2016年度按服务组成部分划分的服务出口及进口值（单位：亿港元）
+重命名列: two_thousand_and_seventeen -> 2017年度按服务组成部分划分的服务出口及进口值（单位：亿港元）
+重命名列: two_thousand_and_eighteen -> 2018年度按服务组成部分划分的服务出口及进口值（单位：亿港元）
+重命名列: two_thousand_and_nineteen -> 2019年度按服务组成部分划分的服务出口及进口值（单位：亿港元）
+重命名列: two_thousand_and_twenty -> 2020年度按服务组成部分划分的服务出口及进口值（单位：亿港元）
+表处理完成: china_statistical_yearbook_2021_c26_30_1020133343248
+
+开始处理表: china_statistical_yearbook_2021_c26_31_1020133346278
+重命名列: two_thousand_and_fifteen -> 中国：按主要目的地和来源地划分的服务出口及进口总额（单位：亿港元）
+重命名列: two_thousand_and_sixteen -> 中国：按主要目的地和来源地划分的服务出口及进口总额（单位：亿港元）
+处理失败: china_statistical_yearbook_2021_c26_31_1020133346278
+(1060, "Duplicate column name '中国：按主要目的地和来源地划分的服务出口及进口总额（单位：亿港元）'")
+
+开始处理表: china_statistical_yearbook_2021_c26_32_1020133349436
+重命名列: foreign_direct_investment_calculated_by_market_value_year_en -> 香港接收的外商直接投资头寸（按投资者国家/地区划分，市值计，年底，2008年，单位：亿港元）
+重命名列: foreign_direct_investment_calculated_by_market_value_year_en_1 -> 香港接收的外商直接投资头寸（按投资者国家/地区划分，市值计，年底，2009年，单位：亿港元）
+重命名列: foreign_direct_investment_calculated_by_market_value_year_en_2 -> 香港接收的外商直接投资头寸（按投资者国家/地区划分，市值计，年底，2011年，单位：亿港元）
+重命名列: foreign_direct_investment_calculated_by_market_value_annual_ -> 香港接收的外商直接投资年度流量（按投资者国家/地区划分，市值计，单位：亿港元）
+重命名列: foreign_direct_investment_calculated_by_market_value_annual__1 -> 香港接收的外商直接投资年度流量（按投资者国家/地区划分，市值计，单位：亿港元）
+处理失败: china_statistical_yearbook_2021_c26_32_1020133349436
+(1060, "Duplicate column name '香港接收的外商直接投资年度流量（按投资者国家/地区划分，市值计，单位：亿港元）'")
+
+开始处理表: china_statistical_yearbook_2021_c26_33_1020133352822
+重命名列: outward_direct_investment_calculated_by_market_value_year_en -> 香港对外直接投资头寸（市值计，按地区分项，单位：亿港元，2008年底）
+重命名列: outward_direct_investment_calculated_by_market_value_year_en_1 -> 香港对外直接投资头寸（市值计，按地区分项，单位：亿港元，2009年底）
+重命名列: outward_direct_investment_calculated_by_market_capitalizatio -> 香港对外直接投资头寸（按市场资本化计，单位：亿港元）
+重命名列: outward_foreign_direct_investment_calculated_by_market_value -> 香港对外直接投资头寸（市值计，按地区分项，单位：亿港元）
+重命名列: outward_foreign_direct_investment_calculated_by_market_value_1 -> 香港对外直接投资头寸（市值计，按地区分项，单位：亿港元）
+处理失败: china_statistical_yearbook_2021_c26_33_1020133352822
+(1060, "Duplicate column name '香港对外直接投资头寸（市值计，按地区分项，单位：亿港元）'")
+
+开始处理表: china_statistical_yearbook_2021_c26_34_1020133356285
+重命名列: two_thousand_and_sixteen -> 按母公司所在国家/地区划分的驻港地区总部数量（单位：个）
+重命名列: two_thousand_and_seventeen -> 按母公司所在国家/地区划分的驻港地区总部数量（单位：个）
+处理失败: china_statistical_yearbook_2021_c26_34_1020133356285
+(1060, "Duplicate column name '按母公司所在国家/地区划分的驻港地区总部数量（单位：个）'")
+
+开始处理表: china_statistical_yearbook_2021_c26_35_1020133358907
+重命名列: two_thousand_and_sixteen -> 按母公司所在国家/地区划分的驻港地区办事处数量（单位：个）
+重命名列: two_thousand_and_seventeen -> 按母公司所在国家/地区划分的驻港地区办事处数量（单位：个）
+处理失败: china_statistical_yearbook_2021_c26_35_1020133358907
+(1060, "Duplicate column name '按母公司所在国家/地区划分的驻港地区办事处数量（单位：个）'")
+
+开始处理表: china_statistical_yearbook_2021_c26_36_1020133401752
+重命名列: two_thousand_and_sixteen -> 按居住国家/地区分组的访港旅客人数（单位：万人次）
+重命名列: two_thousand_and_seventeen -> 按居住国家/地区分组的访港旅客人数（单位：万人次）
+处理失败: china_statistical_yearbook_2021_c26_36_1020133401752
+(1060, "Duplicate column name '按居住国家/地区分组的访港旅客人数（单位：万人次）'")
+
+开始处理表: china_statistical_yearbook_2021_c26_37_1020133404628
+重命名列: _2016_2017 -> 香港政府储备结余（单位：亿港元，财政年度2016/2017）
+重命名列: _2017_2018 -> 香港政府储备结余（单位：亿港元，财政年度2017/2018）
+重命名列: _2018_2019 -> 香港政府储备结余（单位：亿港元，财政年度2018/2019）
+重命名列: _2019_2020 -> 香港政府储备结余（单位：亿港元，财政年度2019/2020）
+重命名列: _2020_2021 -> 香港政府储备结余（单位：亿港元，财政年度2020/2021）
+表处理完成: china_statistical_yearbook_2021_c26_37_1020133404628
+
+开始处理表: china_statistical_yearbook_2021_c26_38_1020133407410
+重命名列: _2016_2017 -> 香港政府收入总额（一般收入帐目及各基金，单位：亿港元）
+重命名列: _2017_2018 -> 香港政府收入总额（一般收入帐目及各基金，单位：亿港元）
+处理失败: china_statistical_yearbook_2021_c26_38_1020133407410
+(1060, "Duplicate column name '香港政府收入总额（一般收入帐目及各基金，单位：亿港元）'")
+
+开始处理表: china_statistical_yearbook_2021_c26_39_1020133410221
+重命名列: _2016_2017 -> 政府支出（一般收入帐目及各基金）- 2016/2017财政年度金额（亿港元）
+重命名列: _2017_2018 -> 政府支出（一般收入帐目及各基金）- 2017/2018财政年度金额（亿港元）
+重命名列: _2018_2019 -> 政府支出（一般收入帐目及各基金）- 2018/2019财政年度金额（亿港元）
+重命名列: _2019_2020 -> 政府支出（一般收入帐目及各基金）- 2019/2020财政年度金额（亿港元）
+重命名列: _2020_2021 -> 政府支出（一般收入帐目及各基金）- 2020/2021财政年度金额（亿港元）
+表处理完成: china_statistical_yearbook_2021_c26_39_1020133410221
+
+开始处理表: china_statistical_yearbook_2021_c26_40_1020133412925
+重命名列: _2016_2017 -> 公共开支（按政策组别划分，单位：亿港元）
+重命名列: _2017_2018 -> 公共开支（按政策组别划分，单位：亿港元）
+处理失败: china_statistical_yearbook_2021_c26_40_1020133412925
+(1060, "Duplicate column name '公共开支（按政策组别划分，单位：亿港元）'")
+
+开始处理表: china_statistical_yearbook_2021_c26_41_1020133415650
+重命名列: two_thousand_and_sixteen -> 外币对港元汇率（单位：港元/外币单位，2016年度日均值）
+重命名列: two_thousand_and_seventeen -> 外币对港元汇率（单位：港元/外币单位，2017年度日均值）
+重命名列: two_thousand_and_eighteen -> 外币对港元汇率（单位：港元/外币单位，2018年度日均值）
+重命名列: two_thousand_and_nineteen -> 外币对港元汇率（单位：港元/外币单位，2019年度日均值）
+重命名列: two_thousand_and_twenty -> 外币对港元汇率（单位：港元/外币单位，2020年度日均值）
+表处理完成: china_statistical_yearbook_2021_c26_41_1020133415650
+
+开始处理表: china_statistical_yearbook_2021_c26_42_1020133418163
+重命名列: two_thousand_and_sixteen -> 香港特别行政区 货币供应量（单位：亿港元，年底数）
+重命名列: two_thousand_and_seventeen -> 香港特别行政区 货币供应量（单位：亿港元，年底数）
+处理失败: china_statistical_yearbook_2021_c26_42_1020133418163
+(1060, "Duplicate column name '香港特别行政区 货币供应量（单位：亿港元，年底数）'")
+
+开始处理表: china_statistical_yearbook_2021_c26_43_1020133420821
+重命名列: two_thousand_and_sixteen -> 年度末股票价格指数（单位：点）
+重命名列: two_thousand_and_seventeen -> 年度末股票价格指数（单位：点）
+处理失败: china_statistical_yearbook_2021_c26_43_1020133420821
+(1060, "Duplicate column name '年度末股票价格指数（单位：点）'")
+
+开始处理表: china_statistical_yearbook_2021_c26_44_1020133423690
+重命名列: weight -> 26-44类消费价格指数权重
+重命名列: two_thousand_and_sixteen -> 26-44类消费价格指数（2016年，单位：指数，基期：2019年10月-2020年9月=100）
+重命名列: two_thousand_and_seventeen -> 26-44类消费价格指数（2017年，单位：指数，基期：2019年10月-2020年9月=100）
+重命名列: two_thousand_and_eighteen -> 26-44类消费价格指数（2018年，单位：指数，基期：2019年10月-2020年9月=100）
+重命名列: two_thousand_and_nineteen -> 26-44类消费价格指数（2019年，单位：指数，基期：2019年10月-2020年9月=100）
+重命名列: two_thousand_and_twenty -> 26-44类消费价格指数（2020年，单位：指数，基期：2019年10月-2020年9月=100）
+表处理完成: china_statistical_yearbook_2021_c26_44_1020133423690
+
+开始处理表: china_statistical_yearbook_2021_c26_45_1020133426960
+重命名列: total_value_hkd_ -> 住户月均开支总额（港元）
+重命名列: total_count_percentage -> 总体数量占比（百分比）
+重命名列: quartile_expenditure_group_lowest_quartile_value_in_hong_kon -> 最低四分位组月均开支金额（港元）
+重命名列: quartile_expenditure_group_lowest_quartile_percentage -> 最低四分位组占比（百分比）
+重命名列: quartile_expenditure_group_2nd_quartile_value_in_hong_kong_d -> 第二四分位组月均开支金额（港元）
+重命名列: quartile_expenditure_group_2nd_quartile_percentage -> 第二四分位组占比（百分比）
+重命名列: quartile_expenditure_group_third_quartile_value_in_hong_kong -> 第三四分位组月均开支金额（港元）
+重命名列: quartile_expenditure_group_third_quartile_percentage -> 第三四分位组占比（百分比）
+重命名列: quartile_expenditure_group_highest_quartile_value_in_hong_ko -> 最高四分位组月均开支金额（港元）
+重命名列: quartile_expenditure_group_highest_quartile_percentage -> 最高四分位组占比（百分比）
+表处理完成: china_statistical_yearbook_2021_c26_45_1020133426960
+
+开始处理表: china_statistical_yearbook_2021_c26_46_1020133432217
+重命名列: _2016_number_of_people_10000_people_ -> 2016年按教育程度分组的人口数量（单位：万人）
+重命名列: _2016_percentage -> 2016年按教育程度分组的人口占比（单位：百分比）
+重命名列: _2017_number_of_people_10000_people_ -> 2017年按教育程度分组的人口数量（单位：万人）
+重命名列: _2017_percentage -> 2017年按教育程度分组的人口占比（单位：百分比）
+重命名列: _2018_number_of_people_10000_people_ -> 2018年按教育程度分组的人口数量（单位：万人）
+重命名列: _2018_percentage -> 2018年按教育程度分组的人口占比（单位：百分比）
+重命名列: _2019_number_of_people_10000_people_ -> 2019年按教育程度分组的人口数量（单位：万人）
+重命名列: _2019_percentage -> 2019年按教育程度分组的人口占比（单位：百分比）
+重命名列: _2020_number_of_people_10000_people_ -> 2020年按教育程度分组的人口数量（单位：万人）
+重命名列: _2020_percentage -> 2020年按教育程度分组的人口占比（单位：百分比）
+表处理完成: china_statistical_yearbook_2021_c26_46_1020133432217
+
+开始处理表: china_statistical_yearbook_2021_c26_47_1020133437204
+重命名列: two_thousand_and_sixteen -> 2016年度按教育及培训机构类别划分的学生人数（单位：人）
+重命名列: two_thousand_and_seventeen -> 2017年度按教育及培训机构类别划分的学生人数（单位：人）
+重命名列: two_thousand_and_eighteen -> 2018年度按教育及培训机构类别划分的学生人数（单位：人）
+重命名列: two_thousand_and_nineteen -> 2019年度按教育及培训机构类别划分的学生人数（单位：人）
+重命名列: two_thousand_and_twenty -> 2020年度按教育及培训机构类别划分的学生人数（单位：人）
+表处理完成: china_statistical_yearbook_2021_c26_47_1020133437204
+
+开始处理表: china_statistical_yearbook_2021_c26_48_1020133439905
+重命名列: two_thousand_and_sixteen -> 中国医疗卫生条件指标（年度末数值）
+重命名列: two_thousand_and_seventeen -> 中国医疗卫生条件指标（年度末数值）
+处理失败: china_statistical_yearbook_2021_c26_48_1020133439905
+(1060, "Duplicate column name '中国医疗卫生条件指标（年度末数值）'")
+
+开始处理表: china_statistical_yearbook_2021_c26_49_1020133442689
+重命名列: _2016_2017 -> 社会保障开支（港元，财政年度结束时的数字）
+重命名列: _2017_2018 -> 社会保障开支（港元，财政年度结束时的数字）
+处理失败: china_statistical_yearbook_2021_c26_49_1020133442689
+(1060, "Duplicate column name '社会保障开支（港元，财政年度结束时的数字）'")
+
+开始处理表: china_statistical_yearbook_2021c27_01_1020133445909
+重命名列: two_thousand_and_sixteen -> 酒店业平均入住率（%）
+重命名列: two_thousand_and_seventeen -> 酒店业平均入住率（%）
+处理失败: china_statistical_yearbook_2021c27_01_1020133445909
+(1060, "Duplicate column name '酒店业平均入住率（%）'")
+
+开始处理表: china_statistical_yearbook_2021c27_02_1020133448564
+重命名列: two_thousand_and_sixteen -> 中国按堂区划分的陆地面积（平方公里）
+重命名列: two_thousand_and_seventeen -> 中国按堂区划分的陆地面积（平方公里）
+处理失败: china_statistical_yearbook_2021c27_02_1020133448564
+(1060, "Duplicate column name '中国按堂区划分的陆地面积（平方公里）'")
+
+开始处理表: china_statistical_yearbook_2021c27_03_1020133451342
+重命名列: _2016 -> 人口主要指标（2016年，单位：人）
+重命名列: _2017 -> 人口主要指标（2017年，单位：人）
+重命名列: _2018 -> 人口主要指标（2018年，单位：人）
+重命名列: _2019 -> 人口主要指标（2019年，单位：人）
+重命名列: _2020 -> 人口主要指标（2020年，单位：人）
+表处理完成: china_statistical_yearbook_2021c27_03_1020133451342
+
+开始处理表: china_statistical_yearbook_2021c27_04_1020133454078
+重命名列: two_thousand_and_sixteen -> 2016年经济活动人口及失业状况指标值
+重命名列: two_thousand_and_seventeen -> 2017年经济活动人口及失业状况指标值
+重命名列: two_thousand_and_eighteen -> 2018年经济活动人口及失业状况指标值
+重命名列: two_thousand_and_nineteen -> 2019年经济活动人口及失业状况指标值
+重命名列: two_thousand_and_twenty -> 2020年经济活动人口及失业状况指标值
+表处理完成: china_statistical_yearbook_2021c27_04_1020133454078
+
+开始处理表: china_statistical_yearbook_2021c27_05_1020133456848
+重命名列: two_thousand_and_sixteen -> 按行业划分的就业人口数（单位：万人，2016年）
+重命名列: two_thousand_and_seventeen -> 按行业划分的就业人口数（单位：万人，2017年）
+重命名列: two_thousand_and_eighteen -> 按行业划分的就业人口数（单位：万人，2018年）
+重命名列: two_thousand_and_nineteen -> 按行业划分的就业人口数（单位：万人，2019年）
+重命名列: two_thousand_and_twenty -> 按行业划分的就业人口数（单位：万人，2020年）
+表处理完成: china_statistical_yearbook_2021c27_05_1020133456848
+
+开始处理表: china_statistical_yearbook_2021c27_06_1020133459416
+重命名列: two_thousand_and_sixteen -> 澳门地区按行业分组的月工作收入中位数（单位：澳门元）
+重命名列: two_thousand_and_seventeen -> 澳门地区按行业分组的月工作收入中位数（单位：澳门元）
+处理失败: china_statistical_yearbook_2021c27_06_1020133459416
+(1060, "Duplicate column name '澳门地区按行业分组的月工作收入中位数（单位：澳门元）'")
+
+开始处理表: china_statistical_yearbook_2021c27_08_1020133502406
+重命名列: two_thousand_and_sixteen -> 本地生产总值（支出法）金额（单位：亿澳门元，2016年度）
+重命名列: two_thousand_and_seventeen -> 本地生产总值（支出法）金额（单位：亿澳门元，2017年度）
+重命名列: two_thousand_and_eighteen -> 本地生产总值（支出法）金额（单位：亿澳门元，2018年度）
+重命名列: two_thousand_and_nineteen -> 本地生产总值（支出法）金额（单位：亿澳门元，2019年度）
+重命名列: two_thousand_and_twenty -> 本地生产总值（支出法）金额（单位：亿澳门元，2020年度）
+表处理完成: china_statistical_yearbook_2021c27_08_1020133502406
+
+开始处理表: china_statistical_yearbook_2021c27_09_1020133506707
+重命名列: two_thousand_and_fifteen -> 澳门特别行政区生产法本地生产总值（单位：亿澳门元）
+重命名列: two_thousand_and_sixteen -> 澳门特别行政区生产法本地生产总值（单位：亿澳门元）
+处理失败: china_statistical_yearbook_2021c27_09_1020133506707
+(1060, "Duplicate column name '澳门特别行政区生产法本地生产总值（单位：亿澳门元）'")
+
+开始处理表: china_statistical_yearbook_2021c27_10_1020133510911
+重命名列: two_thousand_and_fifteen -> 按生产法核算的本地生产总值结构（单位：%）
+重命名列: two_thousand_and_sixteen -> 按生产法核算的本地生产总值结构（单位：%）
+处理失败: china_statistical_yearbook_2021c27_10_1020133510911
+(1060, "Duplicate column name '按生产法核算的本地生产总值结构（单位：%）'")
+
+开始处理表: china_statistical_yearbook_2021_c27_11_1020133515189
+重命名列: two_thousand_and_sixteen -> 中国 电力、燃料及水消耗量（年度合计，单位待确认）
+重命名列: two_thousand_and_seventeen -> 中国 电力、燃料及水消耗量（年度合计，单位待确认）
+处理失败: china_statistical_yearbook_2021_c27_11_1020133515189
+(1060, "Duplicate column name '中国 电力、燃料及水消耗量（年度合计，单位待确认）'")
+
+开始处理表: china_statistical_yearbook_2021c27_12_1020133517939
+重命名列: two_thousand_and_sixteen -> 按用途划分的获发使用准照私人楼宇数量（单位：栋）
+重命名列: two_thousand_and_seventeen -> 按用途划分的获发使用准照私人楼宇数量（单位：栋）
+处理失败: china_statistical_yearbook_2021c27_12_1020133517939
+(1060, "Duplicate column name '按用途划分的获发使用准照私人楼宇数量（单位：栋）'")
+
+开始处理表: china_statistical_yearbook_2021c27_13_1020133520332
+重命名列: two_thousand_and_sixteen -> 按用途划分的已获动工批示私人楼宇数量（单位：栋）
+重命名列: two_thousand_and_seventeen -> 按用途划分的已获动工批示私人楼宇数量（单位：栋）
+处理失败: china_statistical_yearbook_2021c27_13_1020133520332
+(1060, "Duplicate column name '按用途划分的已获动工批示私人楼宇数量（单位：栋）'")
+
+开始处理表: china_statistical_yearbook_2021c27_14_1020133523036
+重命名列: two_thousand_and_sixteen -> 零售业销售额（单位：亿澳门元）
+重命名列: two_thousand_and_seventeen -> 零售业销售额（单位：亿澳门元）
+处理失败: china_statistical_yearbook_2021c27_14_1020133523036
+(1060, "Duplicate column name '零售业销售额（单位：亿澳门元）'")
+
+开始处理表: china_statistical_yearbook_2021c27_15_1020133526008
+重命名列: two_thousand_and_sixteen -> 中国对外商品贸易量（按出入境方式统计，单位：万吨）
+重命名列: two_thousand_and_seventeen -> 中国对外商品贸易量（按出入境方式统计，单位：万吨）
+处理失败: china_statistical_yearbook_2021c27_15_1020133526008
+(1060, "Duplicate column name '中国对外商品贸易量（按出入境方式统计，单位：万吨）'")
+
+开始处理表: china_statistical_yearbook_2021c27_16_1020133528522
+重命名列: two_thousand_and_sixteen -> 集装箱吞吐量（单位：数目，2016年）
+重命名列: two_thousand_and_seventeen -> 集装箱吞吐量（单位：数目，2017年）
+重命名列: two_thousand_and_eighteen -> 集装箱吞吐量（单位：数目，2018年）
+重命名列: two_thousand_and_nineteen -> 集装箱吞吐量（单位：数目，2019年）
+重命名列: two_thousand_and_twenty -> 集装箱吞吐量（单位：数目，2020年）
+表处理完成: china_statistical_yearbook_2021c27_16_1020133528522
+
+开始处理表: china_statistical_yearbook_2021c27_17_1020133531475
+重命名列: two_thousand_and_sixteen -> 中国港口集装箱总吞吐量（单位：标准集装箱，2016年）
+重命名列: two_thousand_and_seventeen -> 中国港口集装箱总吞吐量（单位：标准集装箱，2017年）
+重命名列: two_thousand_and_eighteen -> 中国港口集装箱总吞吐量（单位：标准集装箱，2018年）
+重命名列: two_thousand_and_nineteen -> 中国港口集装箱总吞吐量（单位：标准集装箱，2019年）
+重命名列: two_thousand_and_twenty -> 中国港口集装箱总吞吐量（单位：标准集装箱，2020年）
+表处理完成: china_statistical_yearbook_2021c27_17_1020133531475
+
+开始处理表: china_statistical_yearbook_2021c27_18_1020133534393
+重命名列: two_thousand_and_sixteen -> 电话服务用户数量（单位：户）
+重命名列: two_thousand_and_seventeen -> 电话服务用户数量（单位：户）
+处理失败: china_statistical_yearbook_2021c27_18_1020133534393
+(1060, "Duplicate column name '电话服务用户数量（单位：户）'")
+
+开始处理表: china_statistical_yearbook_2021c27_19_1020133537059
+重命名列: two_thousand_and_sixteen -> 对外商品贸易主要指标值（单位：亿澳门元）
+重命名列: two_thousand_and_seventeen -> 对外商品贸易主要指标值（单位：亿澳门元）
+处理失败: china_statistical_yearbook_2021c27_19_1020133537059
+(1060, "Duplicate column name '对外商品贸易主要指标值（单位：亿澳门元）'")
+
+开始处理表: china_statistical_yearbook_2021c27_20_1020133539538
+重命名列: two_thousand_and_sixteen -> 中国对外贸易（按原产地-目的地划分）进出口总额（2016年，单位：亿澳门元）
+重命名列: two_thousand_and_seventeen -> 中国对外贸易（按原产地-目的地划分）进出口总额（2017年，单位：亿澳门元）
+重命名列: two_thousand_and_eighteen -> 中国对外贸易（按原产地-目的地划分）进出口总额（2018年，单位：亿澳门元）
+重命名列: two_thousand_and_nineteen -> 中国对外贸易（按原产地-目的地划分）进出口总额（2019年，单位：亿澳门元）
+重命名列: two_thousand_and_twenty -> 中国对外贸易（按原产地-目的地划分）进出口总额（2020年，单位：亿澳门元）
+表处理完成: china_statistical_yearbook_2021c27_20_1020133539538
+
+开始处理表: china_statistical_yearbook_2021c27_22_1020133542455
+重命名列: two_thousand_and_sixteen -> 财政支出（单位：亿澳门元，年度：2016年）
+重命名列: two_thousand_and_seventeen -> 财政支出（单位：亿澳门元，年度：2017年）
+重命名列: two_thousand_and_eighteen -> 财政支出（单位：亿澳门元，年度：2018年）
+表处理完成: china_statistical_yearbook_2021c27_22_1020133542455
+
+开始处理表: china_statistical_yearbook_2021c27_23_1020133544540
+重命名列: two_thousand_and_sixteen -> 货币供应量（年末，总量，单位：亿澳门元）
+重命名列: two_thousand_and_seventeen -> 货币供应量（年末，总量，单位：亿澳门元）
+处理失败: china_statistical_yearbook_2021c27_23_1020133544540
+(1060, "Duplicate column name '货币供应量（年末，总量，单位：亿澳门元）'")
+
+开始处理表: china_statistical_yearbook_2021_c27_24_1020133547016
+重命名列: two_thousand_and_sixteen -> 外币对澳门元汇率（单位：澳门元/外币单位）
+重命名列: two_thousand_and_seventeen -> 外币对澳门元汇率（单位：澳门元/外币单位）
+处理失败: china_statistical_yearbook_2021_c27_24_1020133547016
+(1060, "Duplicate column name '外币对澳门元汇率（单位：澳门元/外币单位）'")
+
+开始处理表: china_statistical_yearbook_2021c27_25_1020133549627
+重命名列: weight -> 数据权重系数（用于加权计算）
+重命名列: two_thousand_and_sixteen -> 中国消费物价指数2016年值（以2018年4月至2019年3月为基期，基准100）
+重命名列: two_thousand_and_seventeen -> 中国消费物价指数2017年值（以2018年4月至2019年3月为基期，基准100）
+重命名列: two_thousand_and_eighteen -> 中国消费物价指数2018年值（以2018年4月至2019年3月为基期，基准100）
+重命名列: two_thousand_and_nineteen -> 中国消费物价指数2019年值（以2018年4月至2019年3月为基期，基准100）
+重命名列: two_thousand_and_twenty -> 中国消费物价指数2020年值（以2018年4月至2019年3月为基期，基准100）
+表处理完成: china_statistical_yearbook_2021c27_25_1020133549627
+
+开始处理表: china_statistical_yearbook_2021c27_26_1020133552569
+重命名列: total_amount_mop -> 每户双周消费开支总额（澳门元）
+重命名列: total_count_percentage -> 每户双周消费开支总量占比（百分比）
+重命名列: lowest_quintiles_mop -> 最低五分位消费开支金额（澳门元）
+重命名列: lowest_quintiles_percentage -> 最低五分位消费开支占比（百分比）
+重命名列: second_quartile_mop -> 第二五分位消费开支金额（澳门元）
+重命名列: second_quartile_percentage -> 第二五分位消费开支占比（百分比）
+重命名列: _35th_percentile_macau_patacas -> 第35百分位消费开支金额（澳门元）
+重命名列: _35th_percentile_percentage -> 第35百分位消费开支占比（百分比）
+重命名列: fourth_and_fifth_quarters_macau_patacas -> 第四至五分位消费开支金额（澳门元）
+重命名列: fourth_and_fifth_percentiles_percentage -> 第四至五分位消费开支占比（百分比）
+重命名列: highest_quintiles_macau_patacas -> 最高五分位消费开支金额（澳门元）
+重命名列: highest_quintiles_percentage -> 最高五分位消费开支占比（百分比）
+表处理完成: china_statistical_yearbook_2021c27_26_1020133552569
+
+开始处理表: china_statistical_yearbook_2021c27_27_1020133558672
+重命名列: _2001_census_10000_people -> 按教育程度统计的14岁及以上人口数量（单位：万人）
+重命名列: _2001_census_composition -> 按教育程度统计的14岁及以上人口教育程度分布（构成）
+重命名列: _2006_mid_term_population_statistics_10000_people -> 按教育程度统计的14岁及以上人口数量（单位：万人）
+处理失败: china_statistical_yearbook_2021c27_27_1020133558672
+(1060, "Duplicate column name '按教育程度统计的14岁及以上人口数量（单位：万人）'")
+
+开始处理表: china_statistical_yearbook_2021c27_28_1020133602844
+重命名列: _2016_2017 -> 教育机构类别下的注册学生人数（单位：人，2016/2017年度）
+重命名列: _2017_2018 -> 教育机构类别下的注册学生人数（单位：人，2017/2018年度）
+重命名列: _2018_2019 -> 教育机构类别下的注册学生人数（单位：人，2018/2019年度）
+重命名列: _2019_2020 -> 教育机构类别下的注册学生人数（单位：人，2019/2020年度）
+重命名列: _2020_2021 -> 教育机构类别下的注册学生人数（单位：人，2020/2021年度）
+表处理完成: china_statistical_yearbook_2021c27_28_1020133602844
+
+开始处理表: china_statistical_yearbook_2021c27_29_1020133605693
+重命名列: two_thousand_and_sixteen -> 中国医疗卫生条件综合指标数值（单位：未提供，2016年度）
+重命名列: two_thousand_and_seventeen -> 中国医疗卫生条件综合指标数值（单位：未提供，2017年度）
+重命名列: two_thousand_and_eighteen -> 中国医疗卫生条件综合指标数值（单位：未提供，2018年度）
+重命名列: two_thousand_and_nineteen -> 中国医疗卫生条件综合指标数值（单位：未提供，2019年度）
+重命名列: two_thousand_and_twenty -> 中国医疗卫生条件综合指标数值（单位：未提供，2020年度）
+表处理完成: china_statistical_yearbook_2021c27_29_1020133605693
+
+开始处理表: china_statistical_yearbook_2021_c27_30_1020133608362
+重命名列: _2018_number -> 社会保障基金发放笔数（单位：笔，2018年数据）
+重命名列: _2018_amount_10000_macau_patacas_ -> 社会保障基金发放金额（单位：万澳门元，2018年数据）
+重命名列: _2019_number -> 社会保障基金发放笔数（单位：笔，2019年数据）
+重命名列: _2019_amount_10000_macau_patacas_ -> 社会保障基金发放金额（单位：万澳门元，2019年数据）
+重命名列: _2020_number -> 社会保障基金发放笔数（单位：笔，2020年数据）
+重命名列: _2020_amount_10000_macau_patacas_ -> 社会保障基金发放金额（单位：万澳门元，2020年数据）
+表处理完成: china_statistical_yearbook_2021_c27_30_1020133608362
+
+开始处理表: china_statistical_yearbook_2021c28_01_1020133611796
+重命名列: two_thousand_and_sixteen -> 主要统计指标概况（年末数据，2016年）
+重命名列: two_thousand_and_seventeen -> 主要统计指标概况（年末数据，2017年）
+重命名列: two_thousand_and_eighteen -> 主要统计指标概况（年末数据，2018年）
+重命名列: two_thousand_and_nineteen -> 主要统计指标概况（年末数据，2019年）
+重命名列: two_thousand_and_twenty -> 主要统计指标概况（年末数据，2020年）
+表处理完成: china_statistical_yearbook_2021c28_01_1020133611796
+
+开始处理表: china_statistical_yearbook_2021c28_02_1020133614383
+重命名列: two_thousand_and_sixteen -> 中国-面积和人口主指标（单位待定，2016年）
+重命名列: two_thousand_and_seventeen -> 中国-面积和人口主指标（单位待定，2017年）
+重命名列: two_thousand_and_eighteen -> 中国-面积和人口主指标（单位待定，2018年）
+重命名列: two_thousand_and_nineteen -> 中国-面积和人口主指标（单位待定，2019年）
+重命名列: two_thousand_and_twenty -> 中国-面积和人口主指标（单位待定，2020年）
+表处理完成: china_statistical_yearbook_2021c28_02_1020133614383
+
+开始处理表: china_statistical_yearbook_2021c28_03_1020133617050
+重命名列: two_thousand_and_sixteen -> 中国劳动力数量（单位：人）
+重命名列: two_thousand_and_seventeen -> 中国劳动力数量（单位：人）
+处理失败: china_statistical_yearbook_2021c28_03_1020133617050
+(1060, "Duplicate column name '中国劳动力数量（单位：人）'")
+
+开始处理表: china_statistical_yearbook_2021c28_11_1020133619755
+重命名列: two_thousand_and_sixteen -> 2016年度能源平衡总量（亿升标准油）
+重命名列: two_thousand_and_seventeen -> 2017年度能源平衡总量（亿升标准油）
+重命名列: two_thousand_and_eighteen -> 2018年度能源平衡总量（亿升标准油）
+重命名列: two_thousand_and_nineteen -> 2019年度能源平衡总量（亿升标准油）
+重命名列: two_thousand_and_twenty -> 2020年度能源平衡总量（亿升标准油）
+表处理完成: china_statistical_yearbook_2021c28_11_1020133619755
+
+开始处理表: china_statistical_yearbook_2021c28_14_1020133622401
+重命名列: two_thousand_and_sixteen -> 邮政及电信营运量（2016年）
+重命名列: two_thousand_and_seventeen -> 邮政及电信营运量（2017年）
+重命名列: two_thousand_and_eighteen -> 邮政及电信营运量（2018年）
+重命名列: two_thousand_and_nineteen -> 邮政及电信营运量（2019年）
+重命名列: two_thousand_and_twenty -> 邮政及电信营运量（2020年）
+表处理完成: china_statistical_yearbook_2021c28_14_1020133622401
+
+开始处理表: china_statistical_yearbook_2021c28_16_1020133625043
+重命名列: two_thousand_and_fifteen -> 中国对外贸易（货物）：出口去向与进口来源总额（单位：亿美元）
+重命名列: two_thousand_and_sixteen -> 中国对外贸易（货物）：出口去向与进口来源总额（单位：亿美元）
+处理失败: china_statistical_yearbook_2021c28_16_1020133625043
+(1060, "Duplicate column name '中国对外贸易（货物）：出口去向与进口来源总额（单位：亿美元）'")
+
+开始处理表: china_statistical_yearbook_2021c28_18_1020133627971
+重命名列: two_thousand_and_fifteen -> 来台游客人数（单位：人）
+重命名列: two_thousand_and_sixteen -> 来台游客人数（单位：人）
+处理失败: china_statistical_yearbook_2021c28_18_1020133627971
+(1060, "Duplicate column name '来台游客人数（单位：人）'")
+
+开始处理表: china_statistical_yearbook_2021c28_20_1020133630726
+重命名列: two_thousand_and_fourteen -> 中国各级政府财政收入净额（单位：新台币亿元）
+重命名列: two_thousand_and_fifteen -> 中国各级政府财政收入净额（单位：新台币亿元）
+处理失败: china_statistical_yearbook_2021c28_20_1020133630726
+(1060, "Duplicate column name '中国各级政府财政收入净额（单位：新台币亿元）'")
+
+开始处理表: china_statistical_yearbook_2021_c28_21_1020133633809
+重命名列: two_thousand_and_fourteen -> 中国各级政府财政支出净额（单位：新台币亿元，年度）
+重命名列: two_thousand_and_fifteen -> 中国各级政府财政支出净额（单位：新台币亿元，年度）
+处理失败: china_statistical_yearbook_2021_c28_21_1020133633809
+(1060, "Duplicate column name '中国各级政府财政支出净额（单位：新台币亿元，年度）'")
+
+开始处理表: china_statistical_yearbook_2021cfu1_01_1020133636841
+重命名列: land_area_10000_square_kilometers_ -> 中国 国土面积（单位：万平方公里）
+重命名列: mid_year_population_10000_people_ -> 中国 年中人口数（单位：万人）
+重命名列: population_growth_rate_ -> 中国 人口增长率（单位：%）
+重命名列: population_density_person_square_kilometer_ -> 中国 人口密度（单位：人/平方公里）
+表处理完成: china_statistical_yearbook_2021cfu1_01_1020133636841
+
+开始处理表: china_statistical_yearbook_2021cfu1_02_1020133639806
+重命名列: primary_industries_2018 -> 第一产业就业占比（2018年，单位：%）
+重命名列: primary_industries_2019 -> 第一产业就业占比（2019年，单位：%）
+重命名列: secondary_industries_2018 -> 第二产业就业占比（2018年，单位：%）
+重命名列: secondary_industries_2019 -> 第二产业就业占比（2019年，单位：%）
+重命名列: the_tertiary_industry_2018 -> 第三产业就业占比（2018年，单位：%）
+重命名列: the_third_industries_2019 -> 第三产业就业占比（2019年，单位：%）
+表处理完成: china_statistical_yearbook_2021cfu1_02_1020133639806
+
+开始处理表: china_statistical_yearbook_2021cfu1_03_1020133643275
+重命名列: two_thousand -> 中国城镇登记失业率（单位：%，年度：2000）
+重命名列: two_thousand_and_ten -> 中国城镇登记失业率（单位：%，年度：2010）
+重命名列: two_thousand_and_sixteen -> 中国城镇登记失业率（单位：%，年度：2016）
+重命名列: two_thousand_and_seventeen -> 中国城镇登记失业率（单位：%，年度：2017）
+重命名列: two_thousand_and_eighteen -> 中国城镇登记失业率（单位：%，年度：2018）
+重命名列: two_thousand_and_nineteen -> 中国城镇登记失业率（单位：%，年度：2019）
+重命名列: two_thousand_and_twenty -> 中国城镇登记失业率（单位：%，年度：2020）
+表处理完成: china_statistical_yearbook_2021cfu1_03_1020133643275
+
+开始处理表: china_statistical_yearbook_2021cfu1_05_1020133646866
+重命名列: two_thousand -> 人均国内生产总值（美元，2000年）
+重命名列: two_thousand_and_ten -> 人均国内生产总值（美元，2010年）
+重命名列: two_thousand_and_sixteen -> 人均国内生产总值（美元，2016年）
+重命名列: two_thousand_and_seventeen -> 人均国内生产总值（美元，2017年）
+重命名列: two_thousand_and_eighteen -> 人均国内生产总值（美元，2018年）
+重命名列: two_thousand_and_nineteen -> 人均国内生产总值（美元，2019年）
+重命名列: two_thousand_and_twenty -> 人均国内生产总值（美元，2020年）
+表处理完成: china_statistical_yearbook_2021cfu1_05_1020133646866
+
+开始处理表: china_statistical_yearbook_2021cfu1_06_1020133650251
+重命名列: the_proportion_of_agricultural_added_value_to_the_gross_dome -> 农业增加值占国内生产总值的比重（单位：%）
+重命名列: the_proportion_of_agricultural_added_value_to_gdp_in_2020 -> 农业增加值占GDP比重（2020年，单位：%）
+重命名列: proportion_of_industrial_added_value_to_gross_domestic_produ -> 工业增加值占国内生产总值的比重（单位：%）
+重命名列: proportion_of_industrial_added_value_to_gdp_in_2020 -> 工业增加值占GDP比重（2020年，单位：%）
+重命名列: the_proportion_of_added_value_of_the_service_industry_to_the -> 服务业增加值占国内生产总值比重（2020年，单位：%）
+重命名列: the_proportion_of_added_value_of_the_service_industry_to_the_1 -> 服务业增加值占国内生产总值比重（2012年，单位：%）
+表处理完成: china_statistical_yearbook_2021cfu1_06_1020133650251
+
+开始处理表: china_statistical_yearbook_2021cfu1_07_1020133653956
+重命名列: two_thousand -> 居民最终消费率（单位：%）
+重命名列: two_thousand_and_ten -> 居民最终消费率（单位：%）
+处理失败: china_statistical_yearbook_2021cfu1_07_1020133653956
+(1060, "Duplicate column name '居民最终消费率（单位：%）'")
+
+开始处理表: china_statistical_yearbook_2021cfu1_08_1020133656756
+重命名列: agriculture2017 -> 中国农业生产指数（2017年度，单位：指数，基期2014-2016=100）
+重命名列: agriculture2018 -> 中国农业生产指数（2018年度，单位：指数，基期2014-2016=100）
+重命名列: agriculture_2019 -> 中国农业生产指数（2019年度，单位：指数，基期2014-2016=100）
+重命名列: food_2017 -> 中国食品生产指数（2017年度，单位：指数，基期2014-2016=100）
+重命名列: food_2018 -> 中国食品生产指数（2018年度，单位：指数，基期2014-2016=100）
+重命名列: food_2019 -> 中国食品生产指数（2019年度，单位：指数，基期2014-2016=100）
+表处理完成: china_statistical_yearbook_2021cfu1_08_1020133656756
+
+开始处理表: china_statistical_yearbook_2021cfu1_09_1020133700644
+重命名列: total_index_2013 -> 中国工业生产总指数（基准2010=100，单位：指数，年度：2013年）
+重命名列: total_index_2014 -> 中国工业生产总指数（基准2010=100，单位：指数，年度：2014年）
+重命名列: total_index_2015 -> 中国工业生产总指数（基准2010=100，单位：指数，年度：2015年）
+重命名列: among_them_manufacturing_industry_2013 -> 中国工业生产中制造业分项指数（基准2010=100，单位：指数，年度：2013年）
+重命名列: among_them_manufacturing_industry_2014 -> 中国工业生产中制造业分项指数（基准2010=100，单位：指数，年度：2014年）
+重命名列: among_them_manufacturing_industry_2015 -> 中国工业生产中制造业分项指数（基准2010=100，单位：指数，年度：2015年）
+表处理完成: china_statistical_yearbook_2021cfu1_09_1020133700644
+
+开始处理表: china_statistical_yearbook_2021_cfu1_10_1020133704157
+重命名列: two_thousand_and_five -> 中国居民消费价格指数（CPI，基期2010年=100，单位：指数）
+重命名列: two_thousand_and_sixteen -> 中国居民消费价格指数（CPI，基期2010年=100，单位：指数）
+处理失败: china_statistical_yearbook_2021_cfu1_10_1020133704157
+(1060, "Duplicate column name '中国居民消费价格指数（CPI，基期2010年=100，单位：指数）'")
+
+开始处理表: china_statistical_yearbook_2021_cfu1_11_1020133707156
+重命名列: _2019_export -> 中国货物出口额（单位：亿美元，2019年）
+重命名列: _2019_import -> 中国货物进口额（单位：亿美元，2019年）
+重命名列: _2020_export -> 中国货物出口额（单位：亿美元，2020年）
+重命名列: _2020_import -> 中国货物进口额（单位：亿美元，2020年）
+表处理完成: china_statistical_yearbook_2021_cfu1_11_1020133707156
+
+开始处理表: china_statistical_yearbook_2021_cfu1_12_1020133709798
+重命名列: foreign_direct_investment_2000 -> 中国境内外商直接投资金额（单位：亿美元）
+重命名列: foreign_direct_investment_2010 -> 中国境内外商直接投资金额（单位：亿美元）
+处理失败: china_statistical_yearbook_2021_cfu1_12_1020133709798
+(1060, "Duplicate column name '中国境内外商直接投资金额（单位：亿美元）'")
+
+开始处理表: china_statistical_yearbook_2021_cfu1_13_1020133713545
+重命名列: two_thousand -> 中国外汇储备总额（单位：亿美元，2000年数据）
+重命名列: two_thousand_and_five -> 中国外汇储备总额（单位：亿美元，2005年数据）
+重命名列: two_thousand_and_ten -> 中国外汇储备总额（单位：亿美元，2010年数据）
+重命名列: two_thousand_and_fifteen -> 中国外汇储备总额（单位：亿美元，2015年数据）
+重命名列: two_thousand_and_eighteen -> 中国外汇储备总额（单位：亿美元，2018年数据）
+重命名列: two_thousand_and_nineteen -> 中国外汇储备总额（单位：亿美元，2019年数据）
+重命名列: two_thousand_and_twenty -> 中国外汇储备总额（单位：亿美元，2020年数据）
+表处理完成: china_statistical_yearbook_2021_cfu1_13_1020133713545
+
+开始处理表: china_statistical_yearbook_2021_cfu1_14_1020133717827
+重命名列: international_tourism_expendity_2010 -> 中国 — 国际旅游支出（亿美元，2010年）
+重命名列: international_tourism_expendity_2018 -> 中国 — 国际旅游支出（亿美元，2018年）
+重命名列: international_tourism_expendity_2019 -> 中国 — 国际旅游支出（亿美元，2019年）
+重命名列: international_tourism_expendity_2010_1 -> 中国 — 国际旅游支出（亿美元，2010年（备份））
+重命名列: international_tourism_revenue_in_2018 -> 中国 — 国际旅游收入（亿美元，2018年）
+重命名列: international_tourism_revenue_in_2019 -> 中国 — 国际旅游收入（亿美元，2019年）
+表处理完成: china_statistical_yearbook_2021_cfu1_14_1020133717827
+
+开始处理表: china_statistical_yearbook_2021_cfu1_15_1020133721259
+重命名列: two_thousand -> 人民币对美元汇率（年平均，单位：本币/美元）
+重命名列: two_thousand_and_ten -> 人民币对美元汇率（年平均，单位：本币/美元）
+处理失败: china_statistical_yearbook_2021_cfu1_15_1020133721259
+(1060, "Duplicate column name '人民币对美元汇率（年平均，单位：本币/美元）'")
