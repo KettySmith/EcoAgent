@@ -43,11 +43,40 @@ async def main():
             "messages": [HumanMessage(content=user_input)]
         }
 
+    step = 0
     async for event in graph.astream(initial_state,context=Context(),stream_mode="updates"):
-        print("\n" + "-" * 60)
-        print(event)
+        # print("\n" + "-" * 60)
+        # print(event)
+        for node_name, update in event.items():
+            step += 1
+            print(f"\n[{step}] 执行节点：{node_name}")
+
+            # 只有 numerical_node 展示详细工具调用过程
+            if node_name == "numerical_node":
+                messages = update.get("messages", [])
+                react_round = 0
+
+                for message in messages:
+                    tool_calls = getattr(message, "tool_calls", None)
+
+                    # AI 发起工具调用
+                    if tool_calls:
+                        react_round += 1
+                        print(f"  第 {react_round} 轮工具调用：")
+
+                        for tool_call in tool_calls:
+                            print(f"    工具：{tool_call.get('name')}")
+                            print(f"    参数：{tool_call.get('args')}")
+
+                    # 工具返回执行结果
+                    if message.__class__.__name__ == "ToolMessage":
+                        print(f"    结果：{message.content}")
+
+                final_answer = update.get("final_answer")
+                if final_answer:
+                    print(f"\n最终答案：{final_answer}")
 
 
 if __name__ == "__main__":
-    # react-agent/src$ python3 -m eco_agent.main
+    # eco_model/model/learning/EcoAgent/src$ python3 -m eco_agent.main
     asyncio.run(main())

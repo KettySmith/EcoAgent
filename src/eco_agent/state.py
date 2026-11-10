@@ -61,6 +61,7 @@ class State(InputState):
     # keyquery_list: List[Any]
 
     #rag
+    table_source:str # "meilisearch" | sql_table
     retrieved_tables: str #List[Any]
     retrieved_docs: str #List[Any]
 

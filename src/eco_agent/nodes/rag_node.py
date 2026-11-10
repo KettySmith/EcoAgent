@@ -92,6 +92,7 @@ async def rag_node(state, runtime: Runtime[Context]):
 
     # 格式化为纯文本，供下游节点直接使用
     return {
+        "table_source": results["table_source"],
         "retrieved_tables": _format_table_docs(results["tables"]),
         "retrieved_docs": retrieved_docs
     }

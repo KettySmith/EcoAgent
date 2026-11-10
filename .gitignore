@@ -37,3 +37,7 @@ htmlcov/
 
 # Misc
 *.log
+
+# Local RAG models and vector databases
+/src/eco_agent/rag/rag_model/
+/src/eco_agent/rag/rag_db/

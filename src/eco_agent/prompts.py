@@ -349,7 +349,43 @@ Tool执行结果：
 
 
 请输出：
+"""
 
+SQLITE_GENERATION_PROMPT = """
+你是一个SQLite语句生成器。
+
+请根据 用户问题question, 表格内容table, 表格名table_name, 和可能存在的sql_error生成可执行的SQL语句。
+**使用的是 SQLite 数据库（内存临时表）。**
+
+要求：
+1. **表名和列名必须用双引号 "" 包裹**（SQLite 标准）
+2. 列名中的中文、特殊字符保留原样，用双引号包裹即可
+3. SQL 语句必须兼容 SQLite 语法
+4. 字符串匹配使用 LIKE 或 =（SQLite 的 LIKE 默认不区分 ASCII 大小写）
+5. 聚合函数使用 AVG/SUM/MAX/MIN/COUNT
+6. 排序使用 ORDER BY ... ASC/DESC
+7. 限制行数使用 LIMIT
+8. 数值列可以直接进行算术运算和比较
+9. 只输出SQL语句，不要输出其他内容
+
+question:
+{question}
+
+表格:
+{table}
+
+当前唯一可用表名：
+{table_name}
+禁止使用任何其他表名（如 table、表格、dataset 等）
+
+sql_error:
+{sql_error}
+====================
+
+
+====================
+SQL输出：
+====================
 """
 
 NUMERICAL_AGENT_PROMPT = """
@@ -374,6 +410,19 @@ NUMERICAL_AGENT_PROMPT = """
 - 问题问"2020年"→ 确认是年度值还是某个具体时间点
 - 选择列名时，逐字对比问题中的时间词和列名中的时间词是否一致
 - 如果表格中同时存在月度列和年度列，优先使用与问题时间粒度匹配的列
+
+【SQL 工具选择规则（最高优先级）】
+- 每次对话开始时，会明确告知"表格数据来源（决定使用哪种SQL工具）"
+- 如果 table_source = "meilisearch" → 表格是 Markdown 内存数据，必须使用：
+  1. create_table_from_markdown → 将 Markdown 加载为 SQLite 内存表
+  2. get_temp_table_info → 查看表结构
+  3. generate_sqlite_sql → 生成 SQLite 查询
+  4. execute_sqlite → 执行查询
+  严禁使用 generate_sql / execute_sql（那是 MySQL 工具）
+- 如果 table_source = "sql_table" → 表格是 MySQL 数据库表，必须使用：
+  1. generate_sql → 生成 MySQL 查询
+  2. execute_sql → 执行查询
+  严禁使用 create_table_from_markdown / execute_sqlite（那是 SQLite 内存表工具）
 
 【数值提取规则】
 - 从 Markdown 表格中提取具体数值作为数据支撑

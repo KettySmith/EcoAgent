@@ -1,3 +1,4 @@
+from pathlib import Path
 from typing import List
 
 from langchain_core.documents import Document
@@ -13,12 +14,16 @@ class TextRetriever:
 
     def __init__(
         self,
-        persist_directory: str = "/home/zhangruochi/LYC/book_rag_db",
-        embedding_model: str = "/home/zhangruochi/LYC/bge-small-zh-v1.5",
+        persist_directory: str = "rag_db/book_rag_db",
+        embedding_model: str = "rag_model/bge-small-zh-v1.5",
         top_k: int = 3
     ):
 
         self.top_k = top_k
+        # 相对路径以当前文件所在目录为基准；传入绝对路径时保留原路径。
+        rag_directory = Path(__file__).resolve().parent
+        persist_directory = str(rag_directory / persist_directory)
+        embedding_model = str(rag_directory / embedding_model)
 
         embedding = BGEEmbedder(
             embedding_model

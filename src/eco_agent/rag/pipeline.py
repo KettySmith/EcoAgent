@@ -305,6 +305,7 @@ class AdvancedRAGPipeline:
         #self.cache.set(query, self.top_k, final_docs)
 
         return {
+            "table_source":"meilisearch",
             "tables": table_docs,
             "docs": text_docs,
             "tavily_docs":tavily_docs

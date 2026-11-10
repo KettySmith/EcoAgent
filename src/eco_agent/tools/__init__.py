@@ -4,11 +4,13 @@ from typing import List
 
 from eco_agent.tools.basic_tools import BASIC_TOOLS
 from eco_agent.tools.sql_tools import SQL_TOOLS
+from eco_agent.tools.sqlite_tools import SQLITE_TOOLS
 
 # 所有工具的扁平列表
 TOOLS: List = [
     *BASIC_TOOLS,
     *SQL_TOOLS,
+    *SQLITE_TOOLS,
 ]
 
 __all__ = ["TOOLS"]
